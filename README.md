@@ -3,8 +3,9 @@ Here you can find and share demo files to help everyone learn the [SurfacePsycho
 
 ## Add a file
 All your .blend files using SurfacePsycho are welcome. The goal is for new users to understand the logic, so the cleaner is the file the better, however do what you can,  something is better than nothing so there is a high tolerance for the mess.
+Please put the add-on's version and Blender's version in the file name (e.g. "My spaceship v3 final final sp0.10.4-b5.2.blend")
 
-To add one follow these steps :
+To add a file follow these steps :
 1. Click the Fork button (top right)
 3. On the fork page, just click Create fork (keep the default settings)
 4. You are now on your own copy of the repo. Click Add file → Upload files
