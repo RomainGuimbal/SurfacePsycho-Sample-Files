@@ -1,6 +1,12 @@
 # SurfacePsycho Sample Files
 Here you can find and share demo files to help everyone learn the [SurfacePsycho Blender add-on](https://extensions.blender.org/add-ons/surfacepsycho/).
 
+## Download
+### Download All
+Top right button "Code" > Download ZIP
+### Download One
+Click on the file, then top right button with "Download raw file"
+
 ## Add a file
 All your .blend files using SurfacePsycho are welcome. The goal is for new users to understand the logic, so the cleaner is the file the better, however do what you can,  something is better than nothing so there is a high tolerance for the mess.
 Please put the add-on's version and Blender's version in the file name (e.g. "My spaceship v3 final final sp0.10.4-b5.2.blend")
