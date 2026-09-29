@@ -22,3 +22,5 @@ To add a file follow these steps :
 Done! I will review your submission and merge it into the main repository
 
 Alternatively just join the [project's Discord](https://discord.com/invite/zUmFejwV8G) and share your file in the #duckumentation channel so I add them.
+
+Also don't hesitate to put your name everywhere so people can easily thank you.
