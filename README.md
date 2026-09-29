@@ -8,8 +8,7 @@ Please put the add-on's version and Blender's version in the file name (e.g. "My
 To add a file follow these steps :
 1. Click the Fork button (top right)
 3. On the fork page, just click Create fork (keep the default settings)
-4. You are now on your own copy of the repo. Click Add file → Upload files
-5. Drag and drop your files
+4. You are now on your own copy of the repo. Click Add file → Upload files and select your file
 6. Click Commit changes at the bottom. Your files are now saved in your copy
 7. Click Contribute → Open pull request
 8. Give your pull request any title, then click Create pull request
